@@ -2,6 +2,14 @@
 
 Version history / release notes for each release. 
 
+## Version 1.0.5
+
+Fixes:
+
+* Fixed crash deleting last instrument channel when piano roll is open
+* Fixed system language detection
+* Fixed icon alignment in some context menus
+
 ## Version 1.0.4
 
 Fixes:
