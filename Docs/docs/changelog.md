@@ -2,6 +2,23 @@
 
 Version history / release notes for each release. 
 
+## Version 1.0.6
+
+Fixes:
+
+* Fixed crash dragging patterns outside of the sequencer
+* Fixed crash when moving patterns while song is playing
+* Fixed crash using the "Merge Identical Patterns" features while the song is playing
+* Fixed crash using arpeggios and hitting the instrument "Kill released notes after" time limit
+* Fixed crash when manipulating invalid time signature
+* Fixed swapped stereo panning on YMF262
+* Fixed possibility of created notes/vertices beyond the last pattern of a song
+* Fixed vertex picking in automation editor for vertices near edges of patterns
+
+Changes:
+
+* Added chinese translation to IOS/MacOS
+
 ## Version 1.0.5
 
 Fixes:
